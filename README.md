@@ -12,7 +12,7 @@
 - 🌱 I’m currently exploring Flutter.  
   
 
-- ❓ Ask me about anything related to Android development stack and related technologies such as Java, Kotlin, MVVM, Sqlite etc.  
+- ❓ Ask me about anything related to Android development stack and related technologies such as **Java, Kotlin, MVVM, Sqlite** etc.  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -74,6 +74,3 @@
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
