@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
 
 
-- 🚀 My Resume: [Link](https://github.com/darshna22/darshna22/files/10324022/Darshna_Kumari_Timeline_06_2022.pdf)
+- 🚀 My Resume: [Link](https://github.com/darshna22/darshna22/blob/main/DarshnaKumariResume.pdf)
   
 
 <br/>  
