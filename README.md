@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
 
 
-- 🚀 My Resume: [Link]([https://github.com/darshna22/darshna22/blob/main/DarshnaKumariResume.pdf](https://github.com/darshna22/darshna22/blob/main/DarshnaKumariResumeUpdated.pdf))
+- 🚀 My Resume: [Link](https://github.com/darshna22/darshna22/blob/main/DarshnaKumariResumeUpdated.pdf)
   
 
 <br/>  
